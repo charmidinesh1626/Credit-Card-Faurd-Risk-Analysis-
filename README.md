@@ -35,12 +35,3 @@ The dataset includes attributes such as:
 
 * **age, gender, bmi, no_of_children, smoker, region**
 * **fraud_type, fraud_risk, transaction_category, state, merchant_name**
-
-
-
-
-
-
-
-
-⚡ Do you want me to also create a **section with GitHub badges** (like Power BI badge, dataset size, or project status) so your README looks more professional?
